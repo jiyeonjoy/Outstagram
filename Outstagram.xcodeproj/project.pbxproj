@@ -18,6 +18,7 @@
 		27BD8D7B296D5CC80045C39A /* FeedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BD8D7A296D5CC80045C39A /* FeedTableViewCell.swift */; };
 		27BD8D7D296D5CE10045C39A /* UIButton+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BD8D7C296D5CE10045C39A /* UIButton+.swift */; };
 		27BD8D7F296D6AB60045C39A /* ProfileDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BD8D7E296D6AB60045C39A /* ProfileDataView.swift */; };
+		27BD8D81296D6E3E0045C39A /* ProfileCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BD8D80296D6E3E0045C39A /* ProfileCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		27BD8D7A296D5CC80045C39A /* FeedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedTableViewCell.swift; sourceTree = "<group>"; };
 		27BD8D7C296D5CE10045C39A /* UIButton+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+.swift"; sourceTree = "<group>"; };
 		27BD8D7E296D6AB60045C39A /* ProfileDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileDataView.swift; sourceTree = "<group>"; };
+		27BD8D80296D6E3E0045C39A /* ProfileCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				27BD8D78296D57F40045C39A /* ProfileViewController.swift */,
 				27BD8D7E296D6AB60045C39A /* ProfileDataView.swift */,
+				27BD8D80296D6E3E0045C39A /* ProfileCollectionViewCell.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27BD8D79296D57F40045C39A /* ProfileViewController.swift in Sources */,
+				27BD8D81296D6E3E0045C39A /* ProfileCollectionViewCell.swift in Sources */,
 				27BD8D7D296D5CE10045C39A /* UIButton+.swift in Sources */,
 				27BD8D7B296D5CC80045C39A /* FeedTableViewCell.swift in Sources */,
 				27BD8D73296D57AE0045C39A /* TabBarController.swift in Sources */,
